@@ -12,5 +12,5 @@ Text = "Have fun!";
 Duration = 4;
 })
 
-wait(8)
-game.Players.LocalPlayer:Kick("Cheating")
+wait(7)
+game.Players.LocalPlayer:Kick("Cheating in front of an admin?")
