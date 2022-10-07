@@ -7,7 +7,7 @@ Duration = 4;
 
 wait(2)
 game.StarterGui:SetCore("SendNotification", {
-Title = "Anime Adventure GUI loaded!";
+Title = "Anime Adventures GUI loaded!";
 Text = "Have fun!";
 Duration = 4;
 })
