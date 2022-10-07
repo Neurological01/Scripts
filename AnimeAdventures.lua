@@ -13,4 +13,4 @@ Duration = 4;
 })
 
 wait(7)
-game.Players.LocalPlayer:Kick("Cheating in front of an admin?")
+game.Players.LocalPlayer:Kick("Cheating while an admin is in the game?")
