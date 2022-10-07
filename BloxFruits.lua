@@ -5,12 +5,12 @@ Text = "GUI is loading...";
 Duration = 4;
 })
 
-wait(2)
+wait(2.3)
 game.StarterGui:SetCore("SendNotification", {
 Title = "Blox Fruits GUI loaded!";
 Text = "Have fun!";
 Duration = 4;
 })
 
-wait(6.4)
+wait(6)
 game.Players.LocalPlayer:Kick("Cheating while an admin is in the game?")
